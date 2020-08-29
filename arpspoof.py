@@ -1,8 +1,8 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 import sys
 import argparse
 import threading
-import Queue
+import queue
 import time
 from scapy.all import *
 
